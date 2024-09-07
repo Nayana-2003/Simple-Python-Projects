@@ -1,3 +1,7 @@
+#The Number Guessing Game is a Python project where the player guesses a random number between 1 and 100 within a limited number of attempts. 
+#The game provides feedback on whether guesses are too high or too low.
+#Players can play multiple rounds and can have fun.
+
 import random
 
 def number_guessing_game():
